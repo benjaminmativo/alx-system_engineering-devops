@@ -6,3 +6,4 @@ Task 4: Create empty file called hello
 Task 5: Add execute permission to owner of hello file
 Task 6: Multiple permissions
 Task 7: Everybody
+Task 8: James Bond
