@@ -5,3 +5,4 @@ Task 3: Change owner of hello to betty
 Task 4: Create empty file called hello
 Task 5: Add execute permission to owner of hello file
 Task 6: Multiple permissions
+Task 7: Everybody
